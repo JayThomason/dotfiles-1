@@ -1,1 +1,8 @@
+# Usability
+alias clera='clear'
+alias claer='clear'
+
+# Git
+alias pull='git pull'
+alias push='git push'
 
