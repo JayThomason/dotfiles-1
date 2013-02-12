@@ -5,4 +5,5 @@ alias claer='clear'
 # Git
 alias pull='git pull'
 alias push='git push'
+alias commit='git commit -m '
 
