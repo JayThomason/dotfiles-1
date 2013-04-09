@@ -6,4 +6,4 @@ alias claer='clear'
 alias pull='git pull'
 alias push='git push'
 alias commit='git commit -m '
-
+alias gdiff='git diff --color'
