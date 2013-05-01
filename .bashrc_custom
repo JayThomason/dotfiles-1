@@ -7,3 +7,9 @@ alias pull='git pull'
 alias push='git push'
 alias commit='git commit -m '
 alias gdiff='git diff --color'
+
+# SSH
+alias corn='ssh jayt92@corn.stanford.edu'
+
+# Waldo
+alias wcompile='~/Work/Waldo/Waldo/bin/wcompile.py'
